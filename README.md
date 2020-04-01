@@ -4,7 +4,9 @@ This repository contains the main functions for the cLASS (Computational Linguis
 
 The process flow diagram is 
 
-![process_flow_diagram](process.png)
+![drawing](https://docs.google.com/drawings/d/12w5iizScxpwlOGhFRsVGModb8Vhgzl0Jnpd3T5x5XpE/export/png)  
+[Edit flow diagram here](https://docs.google.com/drawings/d/12w5iizScxpwlOGhFRsVGModb8Vhgzl0Jnpd3T5x5XpE/edit)
+
 
 The [mica-text-script-parser](https://github.com/usc-sail/mica-text-script-parser/releases/tag/v0.0) is used to parse screenplays.
 

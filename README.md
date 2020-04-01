@@ -2,7 +2,7 @@
 
 This repository contains the main functions for the cLASS (Computational Linguistic Analysis of ScriptS) project.
 
-The following flow diagram illustrates the different components we envision for the cLASS system. Client side referes to the expected input to our system and the system side is the backend computation. The output includes main results, sheets and related visualization.  
+The following flow diagram illustrates the different components we envision for the cLASS system. `Client Side` refers to the expected input to our system. `System side` is the backend computation processes. The `Output` includes main results, sheets and related visualizations.  
 
 ![drawing](https://docs.google.com/drawings/d/12w5iizScxpwlOGhFRsVGModb8Vhgzl0Jnpd3T5x5XpE/export/png)  
 [Edit flow diagram here](https://docs.google.com/drawings/d/12w5iizScxpwlOGhFRsVGModb8Vhgzl0Jnpd3T5x5XpE/edit)

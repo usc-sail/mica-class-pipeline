@@ -1,3 +1,6 @@
+# author - Sabyasachee Baruah
+# This file contains the main calling function for the mica class pipeline
+
 import os
 import re
 from parser.parse_scripts_noindent import parse_scripts
@@ -100,4 +103,6 @@ def run_pipeline(script_file, client_email, spreadsheet_title=None, parsed_scrip
 
 if __name__ == "__main__":
     # run_pipeline("sample_scripts/scripts/Avengers_Endgame.pdf", "sabyasachee.1301@gmail.com", spreadsheet_title="avengers_endgame")
-    run_pipeline("sample_scripts/scripts/afterthewedding_screenplay.pdf", "sabyasachee.1301@gmail.com", spreadsheet_title="after_the_wedding")
+    # run_pipeline("sample_scripts/scripts/afterthewedding_screenplay.pdf", "sabyasachee.1301@gmail.com", spreadsheet_title="after_the_wedding")
+
+    run_pipeline("sample_scripts/scripts/ampwga.pdf", "somandep@usc.edu", spreadsheet_title="ampwga")
